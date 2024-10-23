@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Laboratorio 2</string>
+    <string name="look_at_my_gui">Mira mi GUI:</string>
+    <string name="click_here">Haz clic aquí</string>
+    <string name="check_this_out">¡Mira esto!</string>
+    <string name="switch_on_off">Encender / Apagar</string>
+    <string name="type_here">Escribe aquí</string>
+    <string name="toast_message">Aquí hay más información</string>
+    <string name="switch_is_now">El interruptor ahora está</string>
+    <string name="switch_on">encendido</string>
+    <string name="switch_off">apagado</string>
+</resources>
